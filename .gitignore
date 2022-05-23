@@ -130,3 +130,6 @@ dmypy.json
 
 # Config files
 *.ini
+
+# Temp Notes
+*.notes
